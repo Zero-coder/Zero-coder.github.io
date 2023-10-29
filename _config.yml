@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jiang Maowei"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "China"
+  bio              : "Creating valueable stuff||Start-up entrepreneur||Tsinghua University||Chinese Academy of Science||A humble and grateful human."
+  location         : "China Shenyang"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  csdn             : "https://blog.csdn.net/weixin_43332715?type=blog"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  csdn             : #"https://blog.csdn.net/weixin_43332715?type=blog"
   googlescholar    : "https://scholar.google.cz/citations?user=ZRREqFIAAAAJ&hl=zh-CN"
-  email            :
+  email            : "jiangmaowei@sia.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
