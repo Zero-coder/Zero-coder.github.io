@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🙂🙂👋👋Hi there!This page is about me, nice to meet you."
+title: "🙂🙂👋👋🤞🤞Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year post-graduate student from [School of SIA](https://www.sia.cn/), [UCAS](https://www.ucas.ac.cn). My research interest includes LLM, Robotics, RL, ML, and Mobile application.
+👋 Hi, I am actively seeking for collaborations in LLMs + Robotics. 
+I'm a third year post-graduate student from [School of UCAS](https://www.ucas.ac.cn), and cultivated in [SIA](https://www.sia.cn/)[2021.7- 2024.6]. 
+
+My research interest includes LLM, Robotics, RL, ML, and practical application.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
