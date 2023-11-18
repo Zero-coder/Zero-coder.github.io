@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🙂🙂👋👋🤞🤞Hello!"
+title: "🙂🙂👋👋🤞🤞Hello! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I am actively seeking for collaborations in LLMs + Robotics. 
-I'm a third year post-graduate student from [School of UCAS](https://www.ucas.ac.cn), and cultivated in [SIA](https://www.sia.cn/)[2021.7- 2024.6]. 
-
+- 🕘 I'm a third year post-graduate student from [School of UCAS](https://www.ucas.ac.cn), and cultivated in [SIA](https://www.sia.cn/), 2021.7- 2024.6. 
+- 👔 I'm collabortively cultivated in [SIA](https://www.sia.cn/), 2022-2023.
+- 🎓 B.E. in Electrical engineering and its automation, Mianyang teachers College, 2017-2021.
+- ✈️ Future Ph.D in THU，Research Interest: LLM + Robots.
+- 🙌 Always tring to make this world better by cooperation.
 My research interest includes LLM, Robotics, RL, ML, and practical application.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
