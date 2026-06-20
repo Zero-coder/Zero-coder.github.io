@@ -1,66 +1,202 @@
 ---
 permalink: /
-title: "🙂🙂👋👋🤞🤞Hello! "
+title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-- 🕘 I'm a third year post-graduate student from [School of UCAS](https://www.ucas.ac.cn), and cultivated in [SIA](https://www.sia.cn/), 2021.7- 2024.6. 
-- 👔 I'm collabortively cultivated in [SIA](https://www.sia.cn/), 2022-2023.
-- 🎓 B.E. in Electrical engineering and its automation, Mianyang teachers College, 2017-2021.
-- ✈️ Future Ph.D in THU，Research Interest: LLM + Robots.
-- 🙌 Always tring to make this world better by cooperation.
-My research interest includes LLM, Robotics, RL, ML, and practical application.
+<span class="anchor" id="about"></span>
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+# Maowei Jiang (蒋茂苇)
 
-You can find my CV here: [My Curriculum Vitae](../assets/Resume For PhD.pdf).
-You can find my [CSDN-blog here](https://blog.csdn.net/weixin_43332715?type=blog)
+I am a graduate student at **Tsinghua University**, working on large language models, multimodal agents, **Vision-Language-Action (VLA)** models, robot learning, and policy optimization. Before joining Tsinghua, I studied at the University of Chinese Academy of Sciences / Shenyang Institute of Automation, Chinese Academy of Sciences, where I worked on deep learning and intelligent perception.
 
+My current research focuses on building embodied agents that can connect **perception, reasoning, decision making, and action**. I am especially interested in world-model-conditioned VLA policies, online policy refinement for real robots, reinforcement learning for foundation models, and multimodal systems that can generalize to long-horizon tasks.
 
-<!-- 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p style="text-align: center;">
+<a href="mailto:jmw24@mails.tsinghua.edu.cn">Email</a> /
+<a href="https://scholar.google.com/citations?user=ZRREqFIAAAAJ">Google Scholar</a> /
+<a href="https://github.com/Zero-coder">GitHub</a> /
+<a href="/cv/">CV</a>
+</p>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div class="highlight-box" markdown="1">
+**Research keywords:** LLMs, MLLMs, VLA, Robot Learning, Embodied World Models, Multimodal Agents, Policy Optimization, Reinforcement Learning, Long-Horizon Decision Making.
+</div>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<span class="anchor" id="news"></span>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# News
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **2026.06**: **ReCon** and **FutureVLA**, two first-author works on VLA policy refinement and future-conditioned VLA decision making, are under review.
+- **2026.06**: **FDVLA** is under review at *Information Fusion*; **Prompt2Act** focuses on mapping natural-language prompts to executable robot action sequences.
+- **2026**: **TAPO** was selected as an **AAAI 2026 Oral** paper, focusing on policy optimization for LLMs with dynamic teacher signals and perturbed answer injection.
+- **2025**: **DAAC** was accepted to **NeurIPS 2025**, studying discrepancy-aware adaptive contrastive learning.
+- **2024**: Contributed to open-world agent and generative design works, including **CARD**, **MRED-14**, and **GreenPlanner**.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<span class="anchor" id="selected-publications"></span>
 
-**Markdown generator**
+# Selected Publications and Submissions
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<div class="paper-card" markdown="1">
+<span class="paper-badge">AAAI 2026 Oral</span>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**TAPO: Dynamic Teacher and Perturbed Answer Injection for Policy Optimization**  
+**Maowei Jiang**, et al.  
+*AAAI 2026 Oral*  
+<small>Introduces a dynamic teacher and perturbed answer injection mechanism for improving LLM policy optimization efficiency and mitigating reward hacking.</small>
+</div>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<div class="paper-card" markdown="1">
+<span class="paper-badge">NeurIPS 2026 Under Review</span>
 
--->
+**FutureVLA: Acting on Predicted Futures with Vision-Language-Action Models**  
+**Maowei Jiang**, et al.  
+*First-author submission*  
+<small>Connects visual world-model prediction with robot action generation by feeding predicted future visual tokens into VLA policies. Achieves strong results on LIBERO and real-robot tasks.</small>
+</div>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div class="paper-card" markdown="1">
+<span class="paper-badge">NeurIPS 2026 Under Review</span>
+
+**ReCon: Reference-Conditioned Online Refinement for Vision-Language-Action Policies**  
+**Maowei Jiang**, et al.  
+*First-author submission*  
+<small>Studies online residual correction for frozen VLA policies. In real-robot contact-rich tasks, the approach improves average success rate from 46.3% to 98.7%.</small>
+</div>
+
+<div class="paper-card" markdown="1">
+<span class="paper-badge">Information Fusion</span>
+
+**Prompt2Act: Mapping Prompts into Sequence of Robotic Actions with Large Foundation Models**  
+**Maowei Jiang**, et al.  
+*Information Fusion, IF 15.5, Q1 Top, CCF-B*  
+[[GitHub]](https://github.com/Zero-coder/Prompt2Act)  
+<small>Maps natural-language prompts into robot action sequences, bridging LLM/MLLM reasoning, task planning, and executable robot actions.</small>
+</div>
+
+<div class="paper-card" markdown="1">
+<span class="paper-badge">Information Fusion Under Review</span>
+
+**FDVLA: A Flow-Diffusion Vision-Language-Action Framework with Dual Reasoning Modulation**  
+**Maowei Jiang**, et al.  
+*First-author submission*  
+[[GitHub]](https://github.com/Zero-coder/FDVLA)  
+<small>Explores flow-diffusion VLA modeling and reasoning modulation for complex robot manipulation and action generation.</small>
+</div>
+
+<div class="paper-card" markdown="1">
+<span class="paper-badge">ACM MM 2026 Under Review</span>
+
+**RL2VLA: Reinforcement Learning Fine-tuning for Vision-Language-Action Models**  
+**Maowei Jiang**, et al.  
+*First-author submission*  
+[[GitHub]](https://github.com/Zero-coder/RL2VLA)  
+<small>Studies reinforcement learning fine-tuning for VLA models by combining supervised behavior learning with policy search and self-improvement.</small>
+</div>
+
+<div class="paper-card" markdown="1">
+<span class="paper-badge">NeurIPS 2025</span>
+
+**DAAC: Discrepancy-Aware Adaptive Contrastive Learning**  
+**Maowei Jiang**, et al.  
+*NeurIPS 2025*  
+<small>Studies robust representation learning under distribution discrepancy through adaptive contrastive learning.</small>
+</div>
+
+<div class="paper-card" markdown="1">
+<span class="paper-badge">Agents / Generative Design</span>
+
+**CARD / MRED-14 / GreenPlanner**  
+*NeurIPS 2024 Workshop on Open-World Agents; ACM MM; CVPR*  
+<small>Contributed to cross-modal agents for editable residential design, a benchmark for low-energy residential floor-plan generation, and function-feasible generative layout planning.</small>
+</div>
+
+<span class="anchor" id="open-source"></span>
+
+# Open Source
+
+<div class="opensource-grid" markdown="1">
+
+<div class="opensource-card" markdown="1">
+**[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)**  
+4.4k+ stars. A curated list of LLM/MLLM + Robotics/RL papers, code, and resources. I contribute to tracking the fast-moving embodied AI literature.
+</div>
+
+<div class="opensource-card" markdown="1">
+**[Second-Me](https://github.com/mindverse/Second-Me)**  
+15.5k+ stars. Contributed to interface development for a personalized AI self system and WeChat bot integration.
+</div>
+
+<div class="opensource-card" markdown="1">
+**[Prompt2Act](https://github.com/Zero-coder/Prompt2Act) / [RL2VLA](https://github.com/Zero-coder/RL2VLA) / [FDVLA](https://github.com/Zero-coder/FDVLA)**  
+Research repositories for prompt-to-action generation, RL fine-tuning for VLA, and flow-diffusion VLA modeling.
+</div>
+
+<div class="opensource-card" markdown="1">
+**[Zero-coder GitHub](https://github.com/Zero-coder)**  
+98 public repositories covering LLMs, VLA, multimodal learning, computer vision, open-source notes, and research prototypes.
+</div>
+
+</div>
+
+# Honors and Competitions
+
+- **Kaggle CMI Child Mind Institute**: Silver Medal, global rank 75 / 1878.
+- **Huawei Ascend AI Innovation Competition**: Excellent Solution Award.
+- **BMW Hackathon**: Finalist / second place.
+- **Alibaba Tianchi Few-shot Trademark Detection**: Global rank 239 / 2135.
+- **Asia-Pacific Ophthalmology Big Data Competition**: Global rank 142 / 10006.
+
+# Research Taste
+
+I like problems where language, vision, action, and feedback meet each other. My long-term goal is to build agents that do not merely describe the physical world, but can reason about it, act in it, learn from failures, and improve through real interaction.
+
+<style>
+.highlight-box {
+  border-left: 4px solid #2f6f9f;
+  background: #f6f9fb;
+  padding: 12px 14px;
+  margin: 18px 0 24px 0;
+  border-radius: 6px;
+}
+.paper-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin: 14px 0;
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+.paper-badge {
+  display: inline-block;
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: #ffffff;
+  background: #2f6f9f;
+  border-radius: 4px;
+  padding: 3px 7px;
+  margin-bottom: 8px;
+}
+.opensource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 12px;
+  margin: 12px 0 22px 0;
+}
+.opensource-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 13px 14px;
+  background: #ffffff;
+}
+.anchor {
+  display: block;
+  position: relative;
+  top: -80px;
+  visibility: hidden;
+}
+</style>
